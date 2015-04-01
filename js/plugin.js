@@ -19,7 +19,7 @@
     }
 
     Plugin.prototype.init = function () {
-		$(this.element).text("test");
+		$(this.element).text(this.options.text);
     };
 	
 	// Plugin.prototype.anotherMethod = function () {
