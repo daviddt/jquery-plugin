@@ -1,0 +1,25 @@
+{
+  "name": "jquery-plugin",
+  "version": "0.0.0",
+  "homepage": "https://github.com/daviddt/jquery-plugin",
+  "description": "boilerplate for a jquery plugin",
+  "keywords": [
+    "jquery",
+    "plugin",
+    "boilerplate"
+  ],
+  "authors": [
+    "David"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
